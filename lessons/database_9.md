@@ -47,10 +47,9 @@ PostgreSQL не умеет работать без базы данных. Еще
  template1 | bandy | UTF8     | C       | C     | =c/bandy         +
  test      | bandy | UTF8     | C       | C     |
 (4 rows)
+```
 
 Консольная команда для создания базы данных в PostgreSQL.
-
-```
 
 ```bash
 createdb test
@@ -178,6 +177,6 @@ TRUNCATE fattable RESTART IDENTITY;
 
 ### Полезные cсылки
 
-[Домашнее задание](psql_hw/hw01.md)
+[Домашнее задание](hw01.md)
 
 [Следующий Урок](database_10.md)
