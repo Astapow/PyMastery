@@ -49,6 +49,7 @@ PostgreSQL не умеет работать без базы данных. Еще
 (4 rows)
 
 Консольная команда для создания базы данных в PostgreSQL.
+
 ```
 
 ```bash
@@ -177,6 +178,6 @@ TRUNCATE fattable RESTART IDENTITY;
 
 ### Полезные cсылки
 
-[Домашнее задание](HW01_psql.md)
+[Домашнее задание](psql_hw/hw01.md)
 
-[Следующий Урок](psql_hw/database_10.md)
+[Следующий Урок](database_10.md)
